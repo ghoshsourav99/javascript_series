@@ -4,7 +4,7 @@ alert(3+3)  // this is not the right syntax here it gives an error
 // this are primitive data types
 
 let age = 18          // number
-let name = "sourav"    // sourav
+let name = "sourav"    // string
 let isLoggedIn = false // boolean
                        // null
 let state;             // undefined
